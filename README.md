@@ -1,5 +1,3 @@
-### Game Lib
+### gamz
 
-The starter code for our gaming library.
-
-See project instructions in Greenlight.
+My awesome gaming library.
